@@ -1,7 +1,8 @@
-<h1 align="center">Hello! My name is Arthur👑!</h1>
-<p align="center">I'm a developer in development, studying Systems Analysis and Development.</p>
+<img width=100% src="https://mentorama.com.br/blog/wp-content/uploads/2022/06/capa-blog-coding-iniciante.jpg"/>
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurVGA1&show_icons=true&theme=gotham)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=520ca0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Arthur+Verissimo;I'm+19+years+old;I'm+from+Brazil,+MG;I+study+Systems+Analysis+and+Development+at+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurVGA1&show_icons=true&theme=midnight-purple)
 
 <h3 align="left">  Links:</h3>
 <p align="left">

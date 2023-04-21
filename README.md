@@ -4,7 +4,7 @@
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurVGA1&show_icons=true&theme=midnight-purple)
 
-<h1>Email:</h1>
+<h3 align="left">Email:</h3>
 <p>arthurvga05@gmail.com</p>
 
 <h3 align="left">  Links:</h3>
